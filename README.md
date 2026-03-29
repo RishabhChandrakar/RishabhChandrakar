@@ -12,4 +12,3 @@
 
 🚀 Undergraduate Student at IIT Kanpur  
 🤖 Robotics enthusiast working on autonomous UAV systems 
-🛠️ Bridging simulations and real-world deployment
