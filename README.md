@@ -14,6 +14,6 @@
 🤖 Robotics enthusiast working on autonomous UAV systems 
 
 ⚙️ Working on:
-- ROS2, MAVROS, Ardupilot, PX4  
-- Trajectory Planning & Control Control Systems  
+- ROS, MAVROS, Ardupilot, PX4  
+- Trajectory Planning & Control Systems  
 - Bridging Simulation and Real world deployments  
