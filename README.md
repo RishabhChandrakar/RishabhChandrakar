@@ -12,3 +12,8 @@
 
 🚀 Undergraduate Student at IIT Kanpur  
 🤖 Robotics enthusiast working on autonomous UAV systems 
+
+⚙️ Working on:
+- ROS2, MAVROS, Ardupilot, PX4  
+- Trajectory Planning & Control Control Systems  
+- Bridging Simulation and Real world deployments  
