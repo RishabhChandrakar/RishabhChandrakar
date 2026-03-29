@@ -10,6 +10,6 @@
 - 🤔 Reach out at: chintamanimy@gmail.com
 -->
 
-🚀 Undergraduate at IIT Kanpur  
-🤖 Passionate about Robotics, Autonomous Systems & Control  
-🛠️ Working on Drone Control, Trajectory Planning & ROS2  
+🚀 Undergraduate Student at IIT Kanpur  
+🤖 Robotics enthusiast working on autonomous UAV systems 
+🛠️ Bridging simulations and real-world deployment
