@@ -18,7 +18,7 @@ This is how you dropdown.
 
 [MINCO Trajectory Planning](https://github.com/RishabhChandrakar/minco-trajectory-planner) : Rasbperrypi-4 | 2-D Lidar | Real-time Planning | Polynomial Trajectory Optimization | L-BFGS Solver | PP Controller | End-to-end Pipeline
 
-[Gesture Controlled Drone](https://github.com/RishabhChandrakar/gesture-controlled-drone) : Rasbperrypi-4 | RpiCam | MediaPipe | Pose Detection | PP Controller | End-to-end Pipeline
+[Gesture Controlled Drone](https://github.com/RishabhChandrakar/gesture-controlled-drone) : Rasbperrypi-4 | RpiCam | Pose Detection | MediaPipe | PP Controller | End-to-end Pipeline
 
 [Fault Tolerant Control](https://github.com/RishabhChandrakar/interiit13.0) : Recurrent Neural Networks | NMPC | acados | CasADi
 
