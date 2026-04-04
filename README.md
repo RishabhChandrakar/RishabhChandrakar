@@ -1,6 +1,6 @@
 ## Hi visitor, I'm Rishabh 👋
 
-I'm a Undergraduate student ([B.Tech(AE)](https://www.iitk.ac.in/aero/9-undergraduate)) at the Indian Institute Of Technology Kanpur, and I'm an aspiring robotist. With prior background in navigation and controls, I'm keen on developing (and learning) robots that can accomplish tasks which are challenging for humans. 
+I'm a Undergraduate student ([B.Tech(AE)](https://www.iitk.ac.in/aero/9-undergraduate)) at the Indian Institute of Technology Kanpur, and I'm an aspiring robotist. With prior background in navigation and controls, I'm keen on developing (and learning) robots that can accomplish tasks which are challenging for humans. 
 
 <!-- ### Currently I'm working on -->
 [LinkedIn](https://www.linkedin.com/in/rishabh-chandrakar-3299b22ab?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Instagram](https://www.instagram.com/____r.i.s.h.a.b.h___/)
@@ -26,7 +26,7 @@ This is how you dropdown.
 
 [Fault Tolerant Control](https://github.com/RishabhChandrakar/interiit13.0) : Recurrent Neural Networks | NMPC | acados | CasADi
 
-[Autonomous Drone Landing on a Moving Helipad](https://github.com/RishabhChandrakar/interiit13.0) : YOLOv11 | PPID Controller | PP Controller |Simulation @ Gazebo
+[Autonomous Drone Landing on a Moving Helipad](https://github.com/RishabhChandrakar/interiit13.0) : YOLOv11 | PPID Controller | PP Controller | Simulation @ Gazebo
 
 
 
