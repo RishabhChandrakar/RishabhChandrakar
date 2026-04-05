@@ -24,8 +24,6 @@ This is how you dropdown.
 
 [Mine Detection](https://github.com/RishabhChandrakar/gesture-controlled-drone) : Rasbperrypi-4 | [PLutoSDR](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html) | [log-periodic Antennas](https://www.desertcart.in/products/808736141-log-periodic-antenna-for-uwb-and-wifi-600-6000mhz-ultra)  | Spike-based detection | Savitzky–Golay filter | End-to-end Pipeline
 
-[Fault Tolerant Control](https://github.com/RishabhChandrakar/interiit13.0) : Recurrent Neural Networks | NMPC | acados | CasADi
-
 [Autonomous Drone Landing on a Moving Helipad](https://github.com/RishabhChandrakar/interiit13.0) : YOLOv11 | PPID Controller | PP Controller | Simulation @ Gazebo
 
 
