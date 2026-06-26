@@ -2,9 +2,12 @@
 
 I'm a Undergraduate student ([B.Tech(AE)](https://www.iitk.ac.in/aero/9-undergraduate)) at the Indian Institute of Technology Kanpur, and I'm an aspiring robotist. With prior background in navigation and controls, I'm keen on developing (and learning) robots that can accomplish tasks which are challenging for humans. 
 
+Drop a message at chintamanimy@gmail.com for any collaborations.
+
+Happy Roboting :)
+
 <!-- ### Currently I'm working on -->
 [LinkedIn](https://www.linkedin.com/in/rishabh-chandrakar-3299b22ab?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Instagram](https://www.instagram.com/____r.i.s.h.a.b.h___/)
-
 
 ### Some projects I've worked on:
 <!-- 
@@ -24,7 +27,9 @@ This is how you dropdown.
 
 [Mine Detection](https://github.com/RishabhChandrakar/mine-detection) : Rasbperrypi-4 | [PLutoSDR](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html) | [log-periodic Antennas](https://www.desertcart.in/products/808736141-log-periodic-antenna-for-uwb-and-wifi-600-6000mhz-ultra)  | Spike-based detection | Savitzky–Golay filter | End-to-end Pipeline
 
-[Autonomous Drone Landing on a Moving Helipad](https://github.com/RishabhChandrakar/interiit13.0) : YOLOv11 | PPID Controller | PP Controller | Simulation @ Gazebo
+[Autonomous Drone Landing on a Moving Helipad](https://github.com/RishabhChandrakar/vision-guided-landing-on-moving-platform) : YOLOv11 | PPID Controller | PP Controller | Simulation @ Gazebo
+
+[Simultaneous Interception of a Target](https://github.com/RishabhChandrakar/simultaneous_target_interception)
 
 
 
